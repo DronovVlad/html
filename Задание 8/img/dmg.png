@@ -1,0 +1,1777 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-ru" lang="ru-ru" dir="ltr">
+    <head>
+        <meta name="google-site-verification" content="OIoOwba0aPGcj-T2JlqYhiJej7cRv7c8RDK3YDlWudk">
+        <meta name="cataloxy-verification" content="63d71eb0f36b8db=d.nikolaeva@altera-media.com">
+        <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0">
+
+        <link rel="canonical" href="https://centr-hirurgii-spb.ru/diseases/appendicit/">
+
+                <link rel="preload" href="/media/widgetkit/fonts/fontawesome-webfont.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+        <link rel="preload" href="/new_site/css/Commissioner-Light.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+        <link rel="preload" href="/new_site/css/Commissioner-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+        <link rel="preload" href="/new_site/css/Commissioner-SemiBold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+        <link rel="preload" href="/new_site/css/Commissioner-Medium.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+        <link rel="preload" href="/new_site/css/Commissioner-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+                <base href="https://centr-hirurgii-spb.ru/diseases/appendicit/">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="og:url" content="https://centr-hirurgii-spb.ru/diseases/appendicit/">
+	<meta name="og:site_name" content="Центр хирургии СМ-Клиника">
+	<meta name="og:title" content="Аппендицит: симптомы, причины, лечение заболевания">
+	<meta name="og:description" content="Аппендицит: что это такое? В статье описаны виды заболевания, симптомы, причины возникновения, как выполняется диагностика, варианты лечения, возможна ли профилактика и реабилитация.">
+	<meta name="og:type" content="website">
+	<meta name="og:image" content="https://centr-hirurgii-spb.ru/templates/smclinic/images/logo_in_new.png">
+	<meta name="description" content="Аппендицит: что это такое? В статье описаны виды заболевания, симптомы, причины возникновения, как выполняется диагностика, варианты лечения, возможна ли профилактика и реабилитация.">
+	<title>Аппендицит: симптомы, причины, лечение заболевания</title>
+	<link href="/templates/smclinic/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+	<link href="https://centr-hirurgii-spb.ru/templates/smclinic/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/new_site/css/author-article.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/smclinic/onlineSchedule/assets/style.css?v=14" rel="stylesheet" type="text/css" />
+	<link href="/new_site/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="/new_site/css/all_pages.css" rel="stylesheet" type="text/css" />
+	<link href="/new_site/css/style.css" rel="stylesheet" type="text/css" />
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js" type="text/javascript"></script>
+	<script src="/new_site/js/popper.min.js" type="text/javascript"></script>
+	<script src="/new_site/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/new_site/js/custom.js" type="text/javascript"></script>
+	<script src="/new_site/js/scripts.js" type="text/javascript"></script>
+	<script src="/templates/smclinic/js/sourcebuster.min.js?v=1" type="text/javascript"></script>
+	<script type="text/javascript">
+
+                    function loadDeferLicenses() {
+                        window.removeEventListener('scroll', loadDeferLicenses);
+
+                        fetch('/licenses.php')
+                            .then((response) => {
+                                return response.json();
+                            })
+                            .then((data) => {
+                                if (data.html) {
+                                    document.getElementById('licenses').innerHTML = data.html;
+                                }
+                                if (data.js) {
+                                    var s = document.createElement('script');
+                                    s.innerHTML = data.js;
+                                    document.body.appendChild(s);
+                                }                    
+                            });
+                    }
+                    window.addEventListener('scroll', loadDeferLicenses);
+                
+                        // Подгрузка дополнительного widgetkit-css
+                        // Подключится либо через 7 секунд, либо на первый скролл
+                        function loadDeferWKCSS1() {
+                            window.removeEventListener('scroll', loadDeferWKCSS1);
+                            clearTimeout(waitForWKCSS1);
+
+                            var link = document.createElement('link');
+                            link.href = '/media/widgetkit/wk-styles-f1d6e4dc.css';
+                            link.type = 'text/css';
+                            link.rel = 'stylesheet';
+                            link.id = 'wk-styles-css';
+                            document.head.appendChild(link);
+                        }
+                        var waitForWKCSS1 = setTimeout(loadDeferWKCSS1, 7000);
+                        window.addEventListener('scroll', loadDeferWKCSS1);
+                    
+                        // Подгрузка дополнительного widgetkit-js
+                        // Подключится либо через 7 секунд, либо на первый скролл
+                        function loadDeferWKJs2() {
+                            window.removeEventListener('scroll', loadDeferWKJs2);
+                            clearTimeout(waitForWK2);
+
+                            var script = document.createElement('script');
+                            script.src = '/media/widgetkit/uikit2-894afd42.js';
+                            document.head.appendChild(script);
+                        }
+                        var waitForWK2 = setTimeout(loadDeferWKJs2, 7000);
+                        window.addEventListener('scroll', loadDeferWKJs2);
+                    
+                        // Подгрузка дополнительного widgetkit-js
+                        // Подключится либо через 7 секунд, либо на первый скролл
+                        function loadDeferWKJs3() {
+                            window.removeEventListener('scroll', loadDeferWKJs3);
+                            clearTimeout(waitForWK3);
+
+                            var script = document.createElement('script');
+                            script.src = '/media/widgetkit/wk-scripts-d0ce6c63.js';
+                            document.head.appendChild(script);
+                        }
+                        var waitForWK3 = setTimeout(loadDeferWKJs3, 7000);
+                        window.addEventListener('scroll', loadDeferWKJs3);
+                    
+	</script>
+
+
+        <!--[if lt IE 9]>
+                <script src="/media/jui/js/html5.js"></script>
+        <![endif]-->
+
+                    <!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-PDM5M2D');</script>
+            <!-- End Google Tag Manager -->        <link rel="icon" href="https://centr-hirurgii-spb.ru/favicon.svg" type="image/svg">
+
+        <script>
+                                    function getClientId() {
+                var match = document.cookie.match('(?:^|;)\\s*_ga=([^;]*)');
+                var raw = (match) ? decodeURIComponent(match[1]) : null;
+                if (raw) {
+                    match = raw.match(/(\d+\.\d+)$/);
+                }
+                var gacid = (match) ? match[1] : null;
+                if (gacid) {
+                    return gacid;
+                }
+            }
+
+            var sources_form;
+
+            // Функция для добавления аналитики в отправляемые данные
+            function addAnalytics(data) {
+                try {
+                  data.push(
+                    {name: 'source[clientId]', value: sources_form['clientId']},
+                    {name: 'source[type]', value: sources_form['type']},
+                    {name: 'source[referrer]', value: sources_form['referrer']},
+                    {name: 'source[source]', value: sources_form['source']},
+                    {name: 'source[medium]', value: sources_form['medium']},
+                    {name: 'source[campaign]', value: sources_form['campaign']},
+                    {name: 'source[keyword]', value: sources_form['keyword']}
+                  );
+                } catch(err) {
+                    // nothing
+                }
+                return jQuery.param(data);
+            }
+                
+            jQuery(document).ready(function() {
+                var host = window.location.hostname;
+                sbjs.init({
+                    session_length: 1,
+                    domain: {
+                        host: host,
+                        isolate: true
+                    },
+                    timezone_offset: 3
+                });
+                try {
+                    var referrer = sbjs.get.current_add.rf;
+                    if (sbjs.get.current.src == 'yandex') {
+                        var referrer = sbjs.get.current.src;
+                    }
+                    sources_form = {
+                        'clientId': getClientId(),
+                        'type': sbjs.get.current.typ,
+                        'referrer': referrer,
+                        'source': sbjs.get.current.src,
+                        'medium': sbjs.get.current.mdm,
+                        'campaign': sbjs.get.current.cmp,
+                        'keyword': sbjs.get.current.trm
+                    }
+                } catch (err) {
+
+                }
+            });
+                    </script>
+    </head>
+    <body class="no-webp" >            <!-- Google Tag Manager (noscript) -->
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDM5M2D"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->
+        <header class="header">
+            <div class="first__header">
+                <div class="container">
+                    <div class="col-md-12">
+                        <div class="row justify-content-between align-items-center">
+
+                            <a class="login d-sm-none d-none d-lg-flex" href="https://lk.smclinic.ru" target="_blank">Личный кабинет</a>
+
+                            <div class="departments__dropdown d-sm-none d-none d-sm-none d-md-none d-lg-block">
+                                <div class="departments__link">
+                                    <div class="departments__link__text">Наши отделения</div>
+                                    <i class="fa fa-angle-down"></i>
+                                </div>
+                                <div class="departments__list d-none">
+                                    <a class="departments__item" href="/kontakty/dunaiskii/">
+                                        <div class="departments__name">Дунайский пр-т, дом 47</div>
+                                        <div class="departments__text violet">м. Дунайская</div>
+                                    </a>
+                                    <a class="departments__item" href="/kontakty/udarnikov/">
+                                        <div class="departments__name">Пр-т Ударников, дом 19 к.1</div>
+                                        <div class="departments__text orange">м. Ладожская</div>
+                                    </a>
+                                    <a class="departments__item" href="/kontakty/marshala-zaharova/">
+                                        <div class="departments__name">Ул. Маршала Захарова, дом 20</div>
+                                        <div class="departments__text red">м. Ленинский проспект</div>
+                                    </a>
+                                    <a class="departments__item" href="/kontakty/vyborgskoe/">
+                                        <div class="departments__name">Выборгское шоссе, дом 17 к.1</div>
+                                        <div class="departments__text blue">м. Проспект Просвещения</div>
+                                    </a>
+                                    <a class="departments__item" href="/kontakty/balkanskaya/">
+                                        <div class="departments__name">ул. Малая Балканская, дом 23</div>
+                                        <div class="departments__text blue">м. Купчино</div>
+                                    </a>
+                                    <a class="departments__item" href="/kontakty/dybenko/">
+                                        <div class="departments__name">ул. Дыбенко, дом 13 к.4</div>
+                                        <div class="departments__text orange">м. Улица Дыбенко</div>
+                                    </a>
+                                </div>
+                            </div><!--departments__dropdown-->
+
+                            <div class="header__logo d-xs-block d-lg-none d-sm-block d-xs-block">
+                                <div class="mobile__flex">
+                                    <a href="/" class="">
+                                                                                <img alt="СМ-Клиника" class="logo" src="https://centr-hirurgii-spb.ru/templates/smclinic/images/logo_in_new.png">
+                                    </a>
+                                </div>
+                            </div><!--header__logo-->
+
+                            <div class="departments__dropdown d-sm-none d-none d-sm-none d-md-none d-lg-block ml-3">
+                                <div class="departments__link">
+                                    <div class="departments__name mr-1" style="color:black;font-weight: 500;font-size: 15px; color: #2c282d;">Санкт-Петербург</div>
+                                    <i class="fa fa-angle-down"></i>
+                                </div>
+                                <div class="departments__list d-none">
+                                    <a class="departments__item" target="_blank" href="https://centr-hirurgii.ru/">
+                                        <div class="departments__name py-1" style="font-weight: 400;">Москва</div>
+                                    </a>
+                                                                    </div>
+                            </div>
+
+                            <div class="hours d-none d-sm-block"><i class="fa fa-clock-o"></i> 24/7</div>
+                            <div class="phone d-none d-sm-block">
+                                <a href="tel:+78124355555">+7 (812) 435 55 55</a>
+                            </div>
+                                                        <a class="d-none d-md-block callback btn btn__green v-none" href="#" onclick="$('.shedule__call.tip_btn').click();">Записаться</a>
+
+                            <a class="question btn btn__green_text d-sm-none d-none d-md-none d-lg-none d-xl-inline-block" href="#" data-toggle="modal" data-target="#callback-modal">Обратный звонок</a>
+                            
+                            <a class="special d-sm-none d-none d-lg-flex spec_ver_link bvi-open" href="#"><img src="/new_site/img/special.svg" alt="Версия для слабовидящих" title="Версия для слабовидящих"></a>
+
+                            <div class="phone d-block d-sm-none ml-0">
+                                <a href="tel:+78124355555">+7 (812) 435 55 55</a>
+                            </div>
+
+
+                            <div class="d-lg-none d-block menu__toggler">
+                                <nav class="navbar navbar-dark bg-white">
+                                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+                                        <span class="navbar-toggler-icon"></span>
+                                    </button>
+                                </nav>
+                            </div><!--d-xs-block-->
+
+                        </div><!--row-->
+                    </div><!--col-md-12-->
+                </div><!--container-->
+            </div><!--first__header-->
+
+            <div class="collapse" id="navbarToggleExternalContent">
+                <div class="col-md-12">
+                    <div class="row flex-row flex-md-column flex-nowrap flex-md-wrap">
+                        <div class="mobile__menu__wrapper">
+                            <div class="container">
+                                <div class="col-md-12">
+                                    <nav class="mobile__menu row">
+                                        <div class="menu_item__wrapper col-md-3 pl-0">
+                                            <a class="menu__item parent current" href="/poisk-operatsij/">Операции</a>
+                                        </div>
+                                        <div class="menu_item__wrapper col-md-3">
+                                            <a class="menu__item" href="/doctors/">Врачи</a>
+                                        </div>
+                                        <div class="menu_item__wrapper col-md-3">
+                                            <a class="menu__item actions" href="/aktsii/">Акции</a>
+                                        </div>
+                                        <div class="menu_item__wrapper col-md-3 pr-0">
+                                            <a class="menu__item actions" href="/pacientam/">Пациенту</a>
+                                        </div>
+                                        <div class="menu_item__wrapper col-md-3 pl-0">
+                                            <a class="menu__item actions" href="/prices/">Цены</a>
+                                        </div>
+                                        <div class="menu_item__wrapper col-md-3">
+                                            <a class="menu__item" href="/otzivy/">Отзывы</a>
+                                        </div>
+                                        <div class="menu_item__wrapper col-md-3">
+                                            <a class="menu__item" href="/about/">О&nbsp;центре</a>
+                                        </div>
+                                        <div class="menu_item__wrapper col-md-3 pr-0">
+                                            <a class="menu__item" href="/kontakty/">Контакты</a>
+                                        </div>
+                                    </nav><!--mobile__menu-->
+                                </div><!--col-md-12-->
+                            </div><!--container-->
+                        </div><!--mobile__menu__wrapper-->
+                        
+                        <div class="departments__dropdown__wrapper">
+                            <div class="container">
+                                <div class="row flex-column flex-sm-row">
+                                    <div class="departments__dropdown col-md-8">
+                                        <div class="departments__dropdown__close d-sm-none d-block"></div>
+                                        <div class="departments__link">
+                                            <div class="departments__link__text">Наши отделения</div>
+                                          
+                                        </div>
+                                        <div class="departments__list">
+                                            <a class="departments__item" href="/kontakty/dunaiskii/">
+                                                <div class="departments__name">Дунайский пр-т, дом 47</div>
+                                                <div class="departments__text violet">м. Дунайская</div>
+                                            </a>
+                                            <a class="departments__item" href="/kontakty/udarnikov/">
+                                                <div class="departments__name">Пр-т Ударников, дом 19 к.1</div>
+                                                <div class="departments__text orange">м. Ладожская</div>
+                                            </a>
+                                            <a class="departments__item" href="/kontakty/marshala-zaharova/">
+                                                <div class="departments__name">Ул. Маршала Захарова, дом 20</div>
+                                                <div class="departments__text red">м. Ленинский проспект</div>
+                                            </a>
+                                            <a class="departments__item" href="/kontakty/vyborgskoe/">
+                                                <div class="departments__name">Выборгское шоссе, дом 17 к.1</div>
+                                                <div class="departments__text blue">м. Проспект Просвещения</div>
+                                            </a>
+                                            <a class="departments__item" href="/kontakty/balkanskaya/">
+                                                <div class="departments__name">Ул. Малая Балканская, дом 23</div>
+                                                <div class="departments__text blue">м. Купчино</div>
+                                            </a>
+                                            <a class="departments__item" href="/kontakty/dybenko/">
+                                                <div class="departments__name">ул. Дыбенко, дом 13 к.4</div>
+                                                <div class="departments__text orange">м. Улица Дыбенко</div>
+                                            </a>
+                                        </div>
+                                    </div><!--departments__dropdown-->
+                                    <style>
+                                        .change-sity__list{
+                                            display: none;
+                                        }
+                                        .change-sity__list_visible{
+                                            display: flex !important;
+                                        }
+                                    </style>
+                                    <script>
+                                        function changeVisible(){
+                                            document.getElementsByClassName('change-sity__list')[0]
+                                            .classList.toggle("change-sity__list_visible")
+                                        }
+                                    </script>
+                                    <div class="hours d-block d-sm-none ml-0 mb-1 mt-3"><i class="fa fa-clock-o"></i> 24/7
+                                
+                                        <div class="d-flex flex-column">
+                                            <div class="departments__link d-flex align-items-baseline change-sity mt-1 mb-0" style="gap:10px" onclick="changeVisible()">
+                                                <p class="departments__link__text" style="color:black;">Санкт-Петербург</p>
+                                                <i class="fa fa-angle-down"></i>
+                                            </div>  
+                                            <div class="departments__list  flex-column change-sity__list">
+                                                <a class="" target="_blank" href="https://centr-hirurgii.ru/">
+                                                    <div class="departments__name py-1">Москва</div>
+                                                </a>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                            <div class="appointment btn btn__gradient d-block d-sm-none mb-4 v-none" onclick="$('.shedule__call.tip_btn').click();">Записаться на приём</div>
+                                    
+
+                                    <form class="form__search" action="/component/finder/search/" method="get">
+                                        <div class="form-full_width">
+                                            <input name="q" class="input-full_width input__search" type="text" placeholder="Напишите что вас интересует и нажмите «Найти»" autocomplete="off" required>
+                                            <button type="submit" class="submit-full_width submit__search btn btn__green"><i class="fa fa-search"></i></button>
+                                        </div>
+                                    </form><!--form__operations-->
+
+
+                                    <div class="links__mobile col-md-4">
+                                        <a class="login" href="https://lk.smclinic.ru/" target="_blank">Личный кабинет</a>
+                                        <a class="departments d-flex d-md-none" href="#">Наши отделения</a>
+                                        <a class="question btn btn__green_text" href="#" data-toggle="modal" data-target="#question-modal">Задать вопрос</a>
+                                        <a class="callback d-flex d-md-none" href="#" data-toggle="modal" data-target="#callback-modal">Заказать звонок</a>
+                                        <a class="special spec_ver_link bvi-open" href="#"><img loading="lazy" src="/new_site/img/special.svg" alt="Версия для слабовидящих" title="Версия для слабовидящих">Для слабовидящих</a>
+                                        <div class="video btn btn__transparent d-none d-md-block" data-toggle="modal" data-target="#video-modal">
+                                            <span class="arrow-right"></span> О&nbsp;клинике
+                                        </div>
+                                    </div><!--links__mobile-->
+                                </div><!--row-->
+                            </div><!--container-->
+                        </div><!--departments__dropdown__wrapper-->
+                    </div><!--row-->
+                </div><!--col-md-12-->
+            </div><!--collapse-->
+
+            <div class="second__header d-sm-none d-none d-lg-block">
+                <div class="container">
+                    <div class="col-md-12">
+                        <div class="row justify-content-between align-items-center">
+                            <div class="header__logo d-none d-lg-block">
+                                <div class="mobile__flex">
+                                    <a href="/">
+                                                                                <img alt="СМ-Клиника" class="logo" src="https://centr-hirurgii-spb.ru/templates/smclinic/images/logo_in_new.png">
+                                    </a>
+                                </div>
+                            </div>
+
+                            <nav itemscope itemtype="http://schema.org/SiteNavigationElement" class="header__nav menu row justify-content-between align-items-center menu_"><div class="menu_item__wrapper item-1209"><a href="/poisk-operatsij/" class="menu__item" itemprop="url">Операции</a></div><div class="menu_item__wrapper item-1211"><a href="/doctors/" class="menu__item" itemprop="url">Врачи</a></div><div class="menu_item__wrapper item-1212"><a href="/aktsii/" class="menu__item" itemprop="url">Акции</a></div><div class="menu_item__wrapper item-1213"><a href="/pacientam/" class="menu__item" itemprop="url">Пациенту</a></div><div class="menu_item__wrapper item-1214">		<a itemprop="url" class="menu__item" href="/prices/"  >Цены</a></div><div class="menu_item__wrapper item-1215"><a href="/otzivy/" class="menu__item" itemprop="url">Отзывы</a></div><div class="menu_item__wrapper item-1216"><a href="/about/" class="menu__item" itemprop="url">О центре</a></div><div class="menu_item__wrapper item-1217"><a href="/kontakty/" class="menu__item" itemprop="url">Контакты</a></div></nav>
+
+                            <div class="header__search">
+                                <div class="toggle__search btn btn__white" data-toggle="modal" data-target="#search-modal"><i class="fa fa-search"></i> поиск</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        
+<main class="main_wrapper background__wrapper">
+	<section class="content">
+		
+				
+<div class="breadcrumbs">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<ul itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list">
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">									<a href="/" class="pathway" id="bc_1" itemscope="" itemtype="http://schema.org/Thing" itemprop="item">
+										<span itemprop="name">
+											Главная										</span>
+									</a> <span class="arrow__right"></span>								
+								<meta itemprop="position" content="1">
+							</li>
+							<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">									<a href="/diseases/" class="pathway" id="bc_2" itemscope="" itemtype="http://schema.org/Thing" itemprop="item">
+										<span itemprop="name">
+											Заболевания										</span>
+									</a> <span class="arrow__right"></span>								
+								<meta itemprop="position" content="2">
+							</li>
+								<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+									<span itemprop="item" id="bc_3" itemscope="" itemtype="http://schema.org/Thing">
+										<span itemprop="name"><span style="display: none">📘</span>Аппендицит</span>
+									</span>
+									
+									<meta itemprop="position" content="3">
+								</li>				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+		
+        <div class="section__content">
+            <div class="row">
+            	<div class="col-md-12">
+					
+<div class="shadow__block">
+	<div class="container">
+		<h1>Аппендицит</h1>			<div class="threebuttons threebuttons-default-item">					<a href="#prices" class="prices threebuttons__link smooth__scroll">Цены</a>					<a href="#faq" class="questions threebuttons__link smooth__scroll">Популярные вопросы</a>			</div>	</div>
+</div>
+
+<!-- баннер -->	<section class="disease-first-screen">
+		<div class="disease-first-screen__container">
+			<div class="disease-first-screen__items">
+				<div class="disease-first-screen__item-image">
+					<picture>
+						<source srcset="/images/article/3bnb.jpg" type="image/webp"><img loading="lazy" src="/images/article/3bnb.jpg">
+					</picture>
+				</div>
+				<div class="disease-first-screen__item-text">
+																<p>Аппендицит – это воспаление червеобразного отростка слепой кишки (аппендикса). В большинстве случаев заболевание протекает в острой форме и сопровождается характерными болями в правой нижней части живота. Лечение проводится хирургическим путем – воспаленный аппендикс удаляется. В большинстве случаев операция выполняется лапароскопическим путем.</p>									</div>
+			</div>
+		</div>
+	</section>
+
+<div class="container"></div><div>&nbsp;</div>
+<div class="tag_navigation container mb-5 mr-auto ml-auto d-flex flex-wrap"><a href="#a1">О заболевании</a> <a href="#a2">Классификация</a> <a href="#a3">Симптомы</a> <a href="#a4">Причины</a> <a href="#a5">Диагностика</a> <a href="#a6">Мнение врача </a> <a href="#a7">Лечение</a> <a href="#a8">Профилактика</a> <a href="#a9">Реабилитация</a></div>
+<section>
+<div class="info-block-title container">
+<h2 id="a1">О заболевании</h2>
+</div>
+<div class="info-block__container container">
+<div class="info-block__items info-block-text grey-bg">
+<p>Аппендицит считается самой распространенной хирургической патологией. По наблюдениям врачей, 9 из 10 госпитализаций в хирургическое отделение связаны именно с этим заболеванием. Воспалительный процесс с одинаковой частотой развивается и у мужчин, и у женщин. Дети и люди до 30 лет болеют чаще, а у возрастных пациентов заболевание часто протекает в стертой форме.</p>
+</div>
+</div>
+</section>
+<section>
+<div class="info-block-title container">
+<h2 id="a2">Классификация аппендицита</h2>
+</div>
+<div class="info-block__container container">
+<div class="info-block__items info-block-text green-bg">
+<p>Деление аппендицита на виды основано на особенностях протекания заболевания. Существуют острая и хроническая формы патологии. Острая встречается чаще, развивается быстро и сопровождается яркой симптоматикой и делится на несколько видов воспалительного процесса:</p>
+<ul>
+<li>катаральный: характеризуется отеком червеобразного отростка, нарушением кровообращения и лимфотока;</li>
+<li>гнойный: в слизистой появляются очаги с гноем;</li>
+<li>флегмонозный: гнойный процесс распространяется на всю толщину стенки аппендикса;</li>
+<li>флегмонозно-язвенный: появляются очаги изъязвления слизистой;</li>
+<li>гангренозный: происходит омертвение тканей червеобразного отростка;</li>
+<li>перфоративный: сопровождается прорывом стенки отростка;</li>
+<li>эмпиема аппендикса: разновидность флегмонозного аппендицита, при котором в полости органа скапливается гной на фоне закупорки выхода рубцовой тканью, каловым камнем и т.п.</li>
+</ul>
+<p>Хронический аппендицит может быть резидуальным, первично-хроническим и рецидивирующим.</p>
+</div>
+</div>
+</section>
+<section>
+<div class="info-block-title container">
+<h2 id="a3">Симптомы аппендицита</h2>
+</div>
+<div class="info-block__container container">
+<div class="info-block__items info-block-text grey-bg">
+<p>Классические признаки острого аппендицита типичные, заболевание диагностируется просто. Основным симптомом является боль в животе, которая обычно начинается ночью или в утренние часы. В начале заболевания она локализуется у солнечного сплетения или по всему животу, а через 2-3 часа переходит в правую подвздошную область (нижняя правая часть живота между пахом и пупком). По мере прогрессирования аппендицита появляются дополнительные симптомы:</p>
+<ul>
+<li>тошнота, однократная или двукратная рвота;</li>
+<li>повышение температуры тела до 37,5 градусов, реже выше;</li>
+<li>разжиженный стул (1-2 эпизода);</li>
+<li>учащение мочеиспускания;</li>
+<li>общая слабость, которая нарастает по мере прогрессирования заболевания.</li>
+</ul>
+<p>Подобные симптомы возникают при типичном расположении червеобразного отростка. У некоторых пациентов положение аппендикса может отличаться от классического. В этом случае течение аппендицита атипичное. Оно встречается в 5-8% случаев. Аппендикс может располагаться:</p>
+<ul>
+<li>вдоль задней поверхности кишечника (ретроцекальное расположение): в этом случае боль может отдавать в поясницу;</li>
+<li>под печенью (подпеченочное расположение): боль локализуется под ребрами справа;</li>
+<li>в малом тазу (тазовое расположение): эпицентр боли расположен над лобком, ощущения отдают в бедро, прямую кишку, промежность;</li>
+<li>с левой стороны (левостороннее расположение): боль локализуется слева.</li>
+</ul>
+<p>Если пациент не обращается за медицинской помощью, заболевание прогрессирует. В воспалительный процесс вовлекается брюшина – развивается перитонит. Боли усиливаются, состояние пациента ухудшается. Нередко возобновляется рвота, нарастает лихорадка. Промедление с лечением может привести к тяжелым осложнениям аппендицита вплоть до летального исхода.</p>
+<p>При хроническом течении аппендицита симптомы обычно смазаны. Пациент может периодически отмечать тупые, ноющие боли в правой подвздошной области, частые запоры, поносы или их чередование, дискомфорт или тяжесть в области солнечного сплетения. Болевые ощущения могут периодически усиливаться, особенно после интенсивной физической нагрузки. Температура не повышается, общее самочувствие остается удовлетворительным.</p>
+</div>
+</div>
+</section>
+<section>
+<div class="info-block-title container">
+<h2 id="a4">Причины аппендицита</h2>
+</div>
+<div class="info-block__container container">
+<div class="info-block__items info-block-text green-bg">
+<p>Возбудителем воспаления является условно-патогенная кишечная микрофлора, а также застой содержимого в червеобразном отростке. Именно этим обусловлен повышенный риск развития заболевания во время беременности, когда увеличенная матка давит на слепую кишку и аппендикс. Изредка пусковым механизмом является закупорка выхода из червеобразного отростка каловым камнем, непереваренными твердыми фрагментами пищи (например, мелкие косточки ягод), гельминтами и т.п. Считается, что употребление большого количества мясной пищи также повышает риск развития заболевания из-за замедления кишечной перистальтики и застоя содержимого.</p>
+</div>
+</div>
+</section>
+<section>
+<div class="info-block-title container">
+<h2 id="a5">Диагностика аппендицита</h2>
+</div>
+<div class="info-block__container container">
+<div class="info-block__items info-block-text grey-bg">
+<p>Диагностика аппендицита основана на анализе жалоб и анамнеза пациента, а также на осмотре. В процессе опроса врач уточняет, когда и при каких обстоятельствах появилась боль, в каком месте она была изначально и куда переместилась, была ли рвота и т.п. Затем проводится общий осмотр, в ходе которого уделяется особое внимание пальпации живота. В процессе выявляются специфические симптомы аппендицита:</p>
+<ul>
+<li>симптом Ровзинга: усиление болей справа внизу при толчках в симметричной области слева;</li>
+<li>симптом Ситковского: усиление болей справа при попытке лечь на левый бок;</li>
+<li>симптом Воскресенского: появление болевых ощущений при легком скольжении пальцами по животу через тонкий слой одежды; направление движения сверху вниз к правой подвздошной области;</li>
+<li>симптом Образцова: появление болей справа внизу при попытке поднять выпрямленную правую ногу;</li>
+<li>симптом Коупа: появление болевых ощущений при сгибании в колене правой ноги и повороте ее кнаружи (пациент лежит на спине).</li>
+</ul>
+<p>Также существует симптом Щеткина-Блюмберга, говорящий о вовлечении в воспалительный процесс брюшины. Для проверки врач осторожно надавливает на живот, а затем резко отпускает. В этот момент появляется резкая боль.</p>
+<p>Для уточнения диагноза назначается общий анализ крови, в котором обнаруживаются признаки воспалительных изменений, УЗИ и/или КТ органов брюшной полости. Для разграничения аппендицита и почечных заболеваний может потребоваться общий анализ мочи.</p>
+</div>
+</div>
+</section>
+<!--Отличие в словах Задать вопрос врачу и убрана Круглосуточно-->
+<!--Форма записи-->
+<section class="appointment__inline section r-a-f-html" id="section_appointment__inline">
+    <div class="container">
+        <div class="appointment_form">
+            <div class="appointment_form__left">
+                <a class="phone" href="tel:+78124355555">+7 (812) 435 55 55</a>
+                <div class="text">Узнайте больше про заболевание у&nbsp;врачей клиники</div>
+            </div>
+            <div class="appointment_form__right">
+                <form class="form__inline_appointment" id="form__inline_appointment">
+                    <div class="appointment_form__fields">
+                        <div class="appointment_form__top row justify-content-between align-items-center">
+                            <div class="col-md-6 name">
+                                <input name="name" required="" type="text" class="appointment_form__input form__input" placeholder="Ваше имя">
+                            </div>
+                            <div class="col-md-6 phone">
+                                <input name="phone" required="" type="tel" class="appointment_form__input form__input" placeholder="+7 (   )" data-inputmask="'mask': '+7 (999)-999 99 99'">
+                            </div>
+                        </div>
+                        <div class="appointment_form__bottom">
+                            <input type="submit" value="Задать вопрос врачу" class="appointment_form__submit btn btn__gradient">
+                            <div class="agree">Нажимая на&nbsp;кнопку, я&nbsp;даю согласие на&nbsp;обработку своих персональных данных в&nbsp;соответствии с&nbsp;<a href="/privacy-policy/" target="_blank">пользовательским соглашением</a>.</div>
+                        </div>
+                        <div class="appointment_form__footer">
+                            «СМ-Клиника» гарантирует полную конфиденциальность Вашего обращения.
+                        </div>
+                    </div>
+                    
+                </form>
+            </div>
+            
+        </div>
+    </div><!--container-->
+</section><!--appointment__inline-->
+				<style>
+					.background__wrapper .appointment__inline {
+						margin-top: 23px;
+						margin-bottom: 20px;
+					}
+				</style>
+			
+<section>
+<div class="info-block-title container">
+<h2 id="a6">Мнение врача</h2>
+</div>
+<div class="opinion__container container">
+<div class="opinion__items">
+<div class="opinion__items-title">
+<div class="opinion__item">
+<div class="opinion__item-info">
+<p>Хотя большинство людей знает, где болит живот при аппендиците и как определить заболевание, далеко не всегда диагностика и лечение оказываются своевременными. Одни пациенты затягивают с обращением к врачу, другие сталкиваются с атипичным течением патологии. Именно поэтому врачи называют воспаление аппендикса одновременно самым легким и самым тяжелым для диагностики хирургическим заболеванием. Поэтому необходимо обращаться к врачу при любых болях в животе, а также до осмотра не принимать обезболивающих препаратов. Они могут исказить клиническую картину аппендицита и затруднить диагностику.</p>
+<div class="opinion__item-info-name"><a href="/doctors/salimov-vakhob-valievich/">Салимов Вахоб Валиевич</a> <br />Хирург, онколог</div>
+</div>
+<div class="opinion__item-image"><picture> <img loading="lazy" src="/images/vrachi/salimov_h.png" alt="Салимов Вахоб Валиевич" title="Салимов Вахоб Валиевич" /></picture></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="info-block-title container">
+<h2 id="a7">Лечение аппендицита</h2>
+</div>
+<div class="info-block__container container">
+<div class="info-block__items info-block-text grey-bg">
+<p><a href="/main-hirurgiya/udalenie-appenditsita/">Лечение аппендицита</a> проводится только хирургическим путем. Врачи выделяют и удаляют воспаленный червеобразный отросток. Вмешательство проводится лапароскопическим (через проколы) или открытым способом в зависимости от тяжести течения заболевания. При развитии перитонита проводится также промывание брюшной полости антисептиками, устанавливается дренаж для оттока жидкости.</p>
+</div>
+</div>
+</section>
+<section>
+<div class="info-block-title container">
+<h2 id="a8">Профилактика аппендицита</h2>
+</div>
+<div class="info-block__container container">
+<div class="info-block__items info-block-text green-bg">
+<p>Специфической профилактики аппендицита не существует. Важно придерживаться принципов правильного питания, не исключать из рациона продукты, а также своевременно обращаться к врачу при любых болях в животе.</p>
+</div>
+</div>
+</section>
+<section>
+<div class="info-block-title container">
+<h2 id="a9">Реабилитация</h2>
+</div>
+<div class="info-block__container container">
+<div class="info-block__items info-block-text grey-bg">
+<p>Сроки реабилитации после лечения аппендицита зависят от вида вмешательства и исходной тяжести состояния пациента. Если операция проводилась лапароскопически, пациент выписывается на 2-3 день, при открытом вмешательстве срок госпитализации увеличивается. В первые дни назначаются противовоспалительные средства, антибиотики, выполняются перевязки. До заживления тканей запрещаются тепловые процедуры, ванны, физическая нагрузка и поднятие тяжестей. Срок восстановления после аппендицита составляет от 3-4 недель до 2 месяцев.</p>
+</div>
+</div>
+</section>
+<section class="sources">
+<div class="sources__container container">
+<h2 class="sources__container-title">Источники</h2>
+<div class="sources__items">
+<div class="sources__item-icon"><img src="/images/sources-icon.svg" alt="Источники" title="Источники" width="47" height="47" /></div>
+<div class="sources__item">
+<div class="vert-green-line">&nbsp;</div>
+<div class="sources__item-info"><ol>
+<li>Бисенков Леонид Николаевич, Трофимов Владислав Михайлович, Зубарев Петр Николаевич. Неотложная хирургия груди и живота. СпецЛит, 2015 г.</li>
+<li>Хваджа Косар А., Балаа Фэли К., Диаз Хосе Х. Малоинвазивная неотложная хирургия. ГЭОТАР-Медиа, 2021 г.</li>
+<li>Шаймарданов Р. Ш., Гумаров Р. Ф. Острый аппендицит у беременных // ПМ. 2011. №54.</li>
+<li>Кыжыров Ж.Н., Капанова Г.Ж., Байжигитов К.Ж., Исаинов Д.С., Искакова Т.А. Осложненный острый аппендицит // Вестник хирургии Казахстана. 2011. №3 (27).</li>
+<li>Касимов Р. Р., Мухин А. С. Современное состояние диагностики острого аппендицита // Соврем. технол. мед. 2013. №4.</li>
+</ol></div>
+</div>
+</div>
+</div>
+</section>
+
+			<div class="sources__container container">
+				<div class="wkshadow uk-panel uk-panel-space">
+		<div class="article_author"><img src="/images/Senko.png" alt="Сенько Владимир Владимирович"><div class="article_author_description"><p id="article_author_description-title">Автор статьи</p><a href="/doctors/senko-vladimir-vladimirovich/">Сенько Владимир Владимирович</a><br><span>Руководитель Центра хирургии и Онкологии</span><span>Стаж работы более 23 лет</span></div></div></div></div> 
+    <div id="faq" class="content__bottom">
+        <div class="mb-4 pb-4" itemscope itemtype="https://schema.org/FAQPage">
+            <div class="container">
+                <h2>Популярные вопросы</h2>
+                <div class="accordion" id="questions">                            <div class="card" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                                <div class="card-header" id="heading1">
+                                    <h3 class="mb-0">
+                                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1" itemprop="name">
+                                            Что такое аппендикулярный абсцесс и как отличить его от аппендицита?                                        </button>
+                                    </h3>
+                                </div>
+
+                                <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#questions" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                                    <div class="card-body" itemprop="text">
+                                        <p>Аппендикулярный абсцесс – это одно из последствий аппендицита, которое развивается при отсутствии лечения. Он формируется при прорыве червеобразного отростка и самопроизвольном отграничении этой области от остальной брюшной полости. Заболевание сопровождается высокой температурой, сильной интоксикацией, рвотой, болями в животе пульсирующего характера. Пациенту необходима срочная медицинская помощь.</p>                                    </div>
+                                </div>
+                            </div>                            <div class="card" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                                <div class="card-header" id="heading2">
+                                    <h3 class="mb-0">
+                                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2" itemprop="name">
+                                            Можно ли умереть от аппендицита?                                        </button>
+                                    </h3>
+                                </div>
+
+                                <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#questions" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                                    <div class="card-body" itemprop="text">
+                                        <p>Да, если не обратиться вовремя к врачу, возможен летальный исход от перитонита.</p>                                    </div>
+                                </div>
+                            </div>                </div><!--accordion-->                
+            </div><!--container-->
+        </div><!--questions-->
+    </div>	<div class="container" style="margin-top: 30px; margin-bottom: 30px;">
+		<span>Статья опубликована</span>: 08.11.2022 г.<br>
+		<span>Последнее обновление</span>: 09.07.2023 г.<br>
+		<div style="margin-top: 10px;">
+			<p style="margin-bottom: 5px;">Поделиться:</p>
+			<div class="ya-share2" data-curtain data-services="vkontakte,odnoklassniki"></div>
+		</div>
+	</div>
+
+				</div>
+			</div>
+		</div>
+		
+	</section>
+	
+	</main>
+        <footer class="footer">                <div id="licenses" class="container"></div>
+
+                            
+
+            <div class="footer_wrapper">
+
+                <section class="footer__first">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-3 flex__mobile">
+                                <img class="footer__logo" loading="lazy" src="/new_site/img/Logo_footer.png" alt="Центр хирургии СМ-Клиника">
+                                <div class="copywrite">© Центр хирургии СМ‑Клиника, 2002-2023</div>
+                                <a class="special spec_ver_link bvi-open" href="#"><img loading="lazy" src="/new_site/img/special.svg" alt="Версия для слабовидящих" title="Версия для слабовидящих"> Для слабовидящих</a>
+                                <div class="social">
+                                    Социальные сети
+                                    <ul class="social__inner">
+                                        <li>
+                                            <a href="https://vk.com/smclinic_spb" target="_blank">
+                                                <i class="fa fa-vk"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a style="padding:  8px;" href="https://rutube.ru/channel/24258467/" target="_blank">
+                                                <img alt="RuTube" src="/new_site/img/rutube.svg">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://ok.ru/smclinicspb/" target="_blank">
+                                                <i class="fa fa-odnoklassniki"></i>
+                                            </a>
+                                        </li>
+                                        
+                                                                            </ul>
+                                    <a class="question btn btn__green_text d-sm-none d-none d-md-none d-lg-none d-xl-inline-block" href="#" data-toggle="modal" data-target="#question-modal">Задать вопрос</a>
+                                </div><!--social-->
+                            </div><!--col-md-3-->
+                            <div class="col-lg-3 col-md-4">
+                                <div class="footmenu">
+                                    <div class="footmenu__title">Хирургия</div>
+                                        <div class="row justify-content-between align-items-start">
+                                            <div class="col-md-6 col-6">
+                                                <ul class="nav">
+                                                    <li class="nav-item"><a href="/about/" class="nav-link">О&nbsp;центре</a></li>
+                                                    <li class="nav-item"><a href="/doctors/" class="nav-link">Врачи</a></li>
+                                                    <li class="nav-item"><a href="/about/license/" class="nav-link">Лицензии</a></li>
+                                                    <li class="nav-item"><a href="/about/operatsionnyj-blok/" class="nav-link">Операционный блок</a></li>
+                                                    <li class="nav-item"><a href="/about/statsionar/" class="nav-link">Стационар</a></li>
+                                                    <li class="nav-item"><a href="/diseases/" class="nav-link">Заболевания</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-md-6 col-6">
+                                                <ul class="nav">
+                                                    <li class="nav-item"><a href="/otzivy/" class="nav-link">Отзывы</a></li>
+                                                    <li class="nav-item"><a href="/kontakty/" class="nav-link">Контакты</a></li>
+                                                    <li class="nav-item"><a class="nav-link" href="/prices/">Цены</a></li>
+                                                                                                    </ul>
+                                            </div>
+                                        </div><!--row-->
+                                </div><!--footmenu-->
+                            </div><!--col-md-3-->
+                            <div class="col-lg-6 col-md-8">
+                                <div class="col-md-12 pr-0 pl-xl-2 pl-0">
+                                    <div class="row justify-content-between align-items-start">
+                                        <div class="col-md-6">
+                                            <div class="footmenu">
+                                                <div class="footmenu__title">Наши ресурсы</div>
+                                                <ul class="nav">
+                                                    <li class="nav-item"><a href="https://www.smclinic-spb.ru/" class="nav-link" target="_blank" rel="noopener noreferrer">Многопрофильный центр СМ‑Клиника</a></li>
+                                                    <li class="nav-item"><a href="https://detskiy-medcentr-spb.ru/" class="nav-link" target="_blank" rel="noopener noreferrer">Педиатрическое отделение</a></li>                                                    
+                                                    <li class="nav-item"><a href="https://sm.org.ru/" class="nav-link" target="_blank" rel="noopener noreferrer">Центр вакансий</a></li>
+                                                    <li class="nav-item"><a href="https://www.smclinic.ru/" class="nav-link" target="_blank" rel="noopener noreferrer">СМ‑Клиника г. Москва</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="footmenu">
+                                                <div class="footmenu__title">Общая информация</div>
+                                                <ul class="nav">
+                                                    <li class="nav-item"><a href="https://www.smclinic-spb.ru/kholding-sm-klinika" class="nav-link" target="_blank" rel="noopener noreferrer">О&nbsp;холдинге</a></li>
+                                                    <li class="nav-item"><a href="https://www.smclinic-spb.ru/dlya-patsientov" class="nav-link" target="_blank" rel="noopener noreferrer">Юридическая информация</a></li>
+                                                    <li class="nav-item"><a href="/sitemap/" class="nav-link">Карта сайта</a></li>
+                                                    <li class="nav-item item-1018"><a href="/articles/" class="nav-link">Статьи</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!--row-->
+                    </div><!--container-->
+                </section><!--footer__first-->
+                
+
+                <section class="footer__second">
+                    <div class="container">
+                        <div class="title">Адреса в&nbsp;Санкт-Петербурге</div>
+                 
+                            <div class="footer__address">
+                                <div class="row justify-content-center align-items-start">
+                                    <div class="footer__second-contact footer__second-phone col-lg-4 col-md-6 col-sm-6 col-12">
+                                        
+<p><a class="address__title" href="/kontakty/dybenko/">ООО «Меди Здрав» на ул. Дыбенко, д. 13 к. 4</a></p>
+<ul class="contact__list">
+<li>Работает с 09:00 до 22:00 ежедневно</li>
+<li>Все диагностические кабинеты работают с 08:00 до 22:00 ежедневно</li>
+<li>Травмпункт работает круглосуточно</li>
+</ul>
+                                                                               <div class="d-flex" style="gap:15px;">
+                                        <a class="d-sm-block callback btn btn__green feedback-link" href="https://www.smclinic-spb.ru/forma-obratnoj-svyazi" target="_blank">Написать нам</a>
+                                        <a class="d-sm-block callback btn btn__green feedback-link" href="#" data-toggle="modal" data-target="#callback-modal">Заказать звонок</a>
+                                       </div>
+                                    </div>
+
+                                    <div class="footer__second-contact col-lg-4 col-md-6 col-sm-6 col-12">
+                                        
+<p><a class="address__title" href="/kontakty/udarnikov/">ООО «Меди ком» на пр-те Ударников, д. 19</a></p>
+<ul class="contact__list">
+<li>Работает с 09:00 до 22:00 ежедневно</li>
+<li>Все диагностические кабинеты работают с 08:00 до 22:00 ежедневно</li>
+<li>Травмпункт и процедурный кабинет работает круглосуточно</li>
+</ul>
+                                    </div>
+
+                                    <div class="footer__second-contact col-lg-4 col-md-6 col-sm-6 col-12">
+                                        
+<p><a class="address__title" href="/kontakty/vyborgskoe/">ООО «Меди ком» на Выборгском шоссе, д. 17 к. 1</a></p>
+<ul class="contact__list">
+<li>Работает с 09:00 до 22:00 ежедневно</li>
+<li>Все диагностические кабинеты работают с 08:00 до 22:00 ежедневно</li>
+<li>Травмпункт и процедурный кабинет работает круглосуточно</li>
+</ul>
+                                    </div>
+
+                                    <div class="footer__second-contact col-lg-4 col-md-6 col-sm-6 col-12">
+                                        
+<p><a class="address__title" href="/kontakty/dunaiskii/">ООО «Меди Проф» на Дунайском пр-те, д. 47</a></p>
+<ul class="contact__list">
+<li>Работает с 09:00 до 22:00 ежедневно</li>
+<li>Все диагностические кабинеты работают с 08:00 до 22:00 ежедневно</li>
+<li>Травмпункт и процедурный кабинет работает круглосуточно</li>
+</ul>
+                                    </div>
+
+                                    <div class="footer__second-contact col-lg-4 col-md-6 col-sm-6 col-12">
+                                        
+<p><a class="address__title" href="/kontakty/balkanskaya/">ООО «Меди Проф» на ул. Малой Балканской, д. 23</a></p>
+<ul class="contact__list">
+<li>Работает с 08:00 до 22:00 ежедневно</li>
+<li>Все диагностические кабинеты работают с 08:00 до 22:00 ежедневно</li>
+<li>Травмпункт и процедурный кабинет работает с 08:00 до 22:00 ежедневно</li>
+</ul>
+                                    </div>
+                                    
+                                    <div class="footer__second-contact col-lg-4 col-md-6 col-sm-6 col-12">
+                                        
+<p><a class="address__title" href="/kontakty/marshala-zaharova/">ООО «Меди Лен» на ул. Маршала Захарова, д. 20</a></p>
+<ul class="contact__list">
+<li>Работает с 09:00 до 22:00 ежедневно</li>
+<li>Все диагностические кабинеты работают с 08:00 до 22:00 ежедневно</li>
+<li>Травмпункт и процедурный кабинет работает круглосуточно</li>
+</ul>
+                                    </div>
+   
+                                </div><!--row-->
+                            </div><!--footer__address-->
+                
+                    </div><!--container-->
+                </section><!--footer__second-->
+
+                <section class="footer__third">
+                    <div class="container">
+                        <div class="col-md-12">
+                            <div class="footer__third__inner row justify-content-around">
+                                <a class="privacy_footer_link m-0" href="/politika/">Политика СМ‑Клиника в&nbsp;отношении обработки персональных данных</a>
+                                <a class="white_bg" href="https://minzdrav.gov.ru/open/supervision/format/nezavisimaya-sistema-otsenki-kachestva-okazaniya-uslug-meditsinskimi-organizatsiyami/nezavisimaya-otsenka-kachestva-okazaniya-uslug-meditsinskimi-organizatsiyami" target="_blank">
+                                    <img alt="Независимая оценка качества" src="/templates/smclinic/images/ocenka_new.png">
+                                </a>
+                                <div class="white_bg assoc">
+                                    <img alt="Удовлетворенность качеством" src="/templates/smclinic/images/footer_logo_new.jpg">
+                                </div>
+                                <a class="white_bg udovl_img" href="https://anketa.rosminzdrav.ru/staticogvjustank/64/1" target="_blank">Удовлетворенность <br>качеством предоставления <br>медицинских услуг</a>
+                                
+                            </div><!--footer__third__inner-->
+                        </div><!--col-md-12-->
+                    </div><!--container-->
+                </section><!--footer__third-->
+                <section class="footer__fourth oferta">
+                    <div class="container">
+                        <p>Материалы, размещенные на данной странице, носят информационный характер и предназначены для образовательных целей. Посетители сайта не должны использовать их в качестве медицинских рекомендаций. Определение диагноза и выбор методики лечения остается исключительной прерогативой вашего лечащего врача! Компании, работающие под брендом "СМ-Клиника", не несут ответственности за возможные негативные последствия, возникшие в результате использования информации, размещенной на сайте centr-hirurgii-spb.ru. Специальные предложения не являются офертой!
+Любое использование или копирование материалов сайта допускается лишь с разрешения правообладателя и только со ссылкой на источник: centr-hirurgii-spb.ru.</p>
+                        <div class="ipnks">ИМЕЮТСЯ ПРОТИВОПОКАЗАНИЯ. НЕОБХОДИМА КОНСУЛЬТАЦИЯ СПЕЦИАЛИСТОВ</div>
+                        <p class="recaptcha-info">This site is&nbsp;protected by&nbsp;reCAPTCHA and the Google <a href="https://policies.google.com/privacy" rel="nofollow" target="_blank">Privacy Policy</a> and <a href="https://policies.google.com/terms" rel="nofollow" target="_blank">Terms of&nbsp;Service</a> apply.</p>
+                        <div class="partners">
+                            <a class="partner__link d-flex align-items-center" style="color: inherit" href="https://justcat.studio/" target="_blank" rel="nofollow">Проектирование и&nbsp;дизайн &mdash; Just <img alt="Justcat studio" src="/new_site/img/just.png"> studio</a>
+                            <!-- <a class="partner__link" href="https://promo.altera-media.com/?utm_source=clnt" target="_blank">Продвижение сайта &mdash; <img src="/new_site/img/altera.png" alt="Альтера-Медиа"></a> -->
+                        </div>
+                    </div><!--container-->
+                </section><!--footer__fourth-->
+                <div class="cookie" style="display:none">
+                    <div class="container">
+                       Используя данный сайт, вы подтверждаете свое согласие на использование файлов cookie. Если вы не согласны с этим, то можете поменять настройки вашего браузера или отказаться от использования данного сайта.                    </div>
+                    <div class="container cookie2">
+                        <div class="cookie__close-accept" data-action="cookie-close">Принять</div>
+                    </div>
+                </div><!--cookie-->
+
+            </div>
+        </footer>
+
+        <div class="up-button"></div>
+
+        <div class="callback__mobile" data-toggle="modal" data-target="#callback-modal"></div>
+
+        <div class="mobile__buttons d-flex d-lg-none d-md-flex d-sm-flex d-xs-flex">
+            <a class="mobile__call" href="tel:+78124355555">
+                <img loading="lazy" src="/new_site/img/to_call__white.svg" alt="Позвонить">
+                Позвонить
+            </a>
+                        <a class="mobile__shedule v-none" href="#" onclick="$('.shedule__call.tip_btn').click();">
+                <img loading="lazy" src="/new_site/img/order__white.svg" alt="Записаться">
+                Записаться
+            </a>
+        </div>        
+
+        <div class="overlay"></div>
+
+        
+
+        
+        
+
+    <style>
+        .slide-fade-enter-active {
+            transition: all .3s ease;
+        }
+        .slide-fade-leave-active {
+            transition: all .8s cubic-bezier(1.0, 0.5, 0.8, 1.0);
+        }
+        .slide-fade-enter, .slide-fade-leave-to
+            /* .slide-fade-leave-active до версии 2.1.8 */ {
+            transform: translateX(100%);
+            opacity: 0;
+        }
+        .fade-enter-active, .fade-leave-active {
+            transition: opacity .5s;
+        }
+        .fade-enter, .fade-leave-to /* .fade-leave-active до версии 2.1.8 */ {
+            opacity: 0;
+        }
+
+        .slide-enter-active, .slide-leave-active {
+            transition: all .5s ease-in;
+        }
+        /*
+        you set the css property before transition starts
+        */
+        .slide-enter, .slide-leave-to {
+            opacity: 0;
+            max-height: 0px;
+        }
+
+        /*
+        you set the css property it will be when transition ends
+        */
+        .slide-enter-to, .slide-leave {
+            opacity: 1;
+            max-height: 100px;
+        }
+    </style>
+
+
+    <div id="online__schedule">
+        <div class="overlay__shedule" v-if="visible"></div>
+        <div class="schedule_wrapper">
+
+            <div id="shedule_call_doctor_1" @click="onDoctorToggle(1)"></div>
+            <div id="shedule_call_doctor_2" @click="onDoctorToggle(2)"></div>
+            <div id="shedule_call_doctor_3" @click="onDoctorToggle(3)"></div>
+            <div id="shedule_call_doctor_4" @click="onDoctorToggle(4)"></div>
+            <div id="shedule_call_doctor_5" @click="onDoctorToggle(5)"></div>
+            <div id="shedule_call_doctor_6" @click="onDoctorToggle(0)"></div>
+
+            <div style="display: none !important;" class="shedule__call tip_btn" @click="onToggle()" v-if="!visible">&nbsp;
+                <span style="display: none !important;" class="tooltip top_tooltip">
+                    <span class="top_tooltip_text">запись с&nbsp;сайта</span>
+                    <span class="top_tooltip_header">СКИДКА 10%</span>
+                </span>
+                <div class="circlephone" style="transform-origin: center;"></div>
+                <div class="circle-fill" style="transform-origin: center;"></div>
+            </div>
+        </div>
+  
+        
+        <transition name="slide-fade">
+            <template v-if="visible">
+                <div class="schedule__visible" @click="onCloseArea($event);">
+                    <!--<p v-for="(obj, key) in testData" style="background: #fff; padding: 1em;">
+                      <a href="#" @click="loadTestData(obj.data)">Загрузить данные: {{obj.description}}</a>
+                    </p>-->
+                    <button class="onlineform__close" @click="onClose(); "></button>
+                    <!--<a style="display:block;" v-for="(switcher, index) in screenSwitchers" @click="currentScreen = index" href="#">{{switcher.name}}</a>-->
+                    <section class="shedule__data" v-show="currentScreen === 0">
+                        <form>
+                            <tabs>
+                                
+                                <tab title="Клиника" id="clinicTab" placeholder="Выберите клинику" :value="form.department ? form.department.name : null" @clear="form.department = null">
+                                    <department-field v-model="form.department"></department-field>
+                                </tab>
+                                
+                                <tab title="Дата рождения" id="dataTab" placeholder="Укажите дату рождения" :value="form.birthdate | dateFormatted" @clear="form.birthdate = null">
+                                    <age-field v-model="form.birthdate" :max="maxDate" :min="minDate"></age-field>
+                                </tab>
+                                
+                                <tab title="Специальность" id="specTab" placeholder="Выберите специальность врача" :value="specialty" @clear="specialty = null">
+                                    <specialty-field
+                                        v-model="form.specialty"
+                                        :department="form.department"
+                                        :birthdate="form.birthdate"
+                                        :hide-after="15"
+                                    >
+                                        <div class="noname__specy" @click="dontKnowSpecialty = true; customDisableAppointment = 1; scrollToCallbackForm();">Я&nbsp;не&nbsp;знаю название специальности</div>
+                                    </specialty-field>
+                                </tab>
+                                
+                                <tab title="Врач" id="doctorTab" placeholder="Выберите врача" :value="doctor" @clear="doctor = null;">
+                                    <doctor-field
+                                        v-show="customDisableAppointment === 0"
+                                        v-model="form.doctor"
+                                        :specialty="form.specialty"
+                                        :department="form.department"
+                                        :year="new Date().getFullYear()"
+                                        :patient-is-child="isChild"
+                                        :birthdate="form.birthdate"
+                                    >
+                                    </doctor-field>
+                                    <div class="date-time clearfix">
+                                        <vuejs-datepicker 
+                                            v-show="doctor && customDisableAppointment === 0"
+                                            :inline="true"
+                                            :monday-first="true"
+                                            :language="datepickerRu"
+                                            :disabled-dates="disabledDates"
+                                            :use-utc="true"
+                                            :maximum-view="'day'"
+                                            v-model="form.date"
+                                        ></vuejs-datepicker>
+                                        <timepicker v-show="doctor" v-model="form.time" :date="form.date" :doctor-writable="form.doctor ? form.doctor.writable : false" :schedule="schedule"></timepicker>
+                                    </div>
+                                    <hr/>
+                                    <div v-show="!dontKnowSpecialty && customDisableAppointment === 0" id="confirmBtn" class="next__step">
+                                        <div id="confirmWarning"></div>
+                                        <a :class="['btn', 'btn--red', 'enroll_more', {'btn--disabled': !isFirstStepReady || dateIsNotFilled === 1 }]" href="#" @click="isFirstStepReady ? currentScreen++ : null">Подтвердить</a>
+                                    </div>
+                                </tab>
+                            
+                            </tabs>
+                        </form>
+
+                        <div v-if="customDisableAppointment === 1" class="disable-appointment">
+                                        
+                            <div class="e-complete__text">
+                                <div>
+                                    <p>Запись возможна только через контакт-центр. </p>
+                                    <p>Для записи заполните форму ниже, и с Вами свяжутся.</p>
+                                </div>
+                            </div>
+
+                            <div class="form__age">
+                                <div id="callmeFormDoctorEnroll" class="jajaxforms clearfix zapisForm active" style="display:block">
+                        
+                                    <form action="#" method="POST">
+                                        <div class="form-wrapper">
+                                            <div class="form-row x2input">
+                                                <input type="hidden" name="act" value="callme">
+                                                <input type="hidden" name="vnd">
+                                                <label>
+                                                    <input class="clear-it" type="text" name="name" placeholder="Имя">
+                                                </label>
+                                                <label>
+                                                    <input 
+                                                        class="clear-it mask-phone" 
+                                                        type="tel" 
+                                                        name="phone" 
+                                                        placeholder="Введите телефон *" 
+                                                        v-mask="{mask: '+7 (999)999-99-99', placeholder: '+7 (___)___-__-__'}"
+                                                    />
+                                                </label> 
+                                            </div>
+                                            <div class="form-row">
+                                                <div class="text">
+                                                    Нажимая на&nbsp;кнопку, вы&nbsp;даете согласие<br>на&nbsp;<a target="_blank" href="/politika/">обработку своих персональных данных</a>
+                                                </div>
+                                            </div>
+                                            <div class="form-row">
+                                                <input type="submit" value="Отправить">
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                            
+                        </div>
+
+                    </section>
+                    
+                    <section v-show="currentScreen === 1" class="pre__result">
+                        <button
+                            :class="['btn', 'btn--green', 'btn--big', 'remove_selected', {'btn--disabled': sending}]"
+                            type="button"
+                            :disabled="sending"
+                            @click="currentScreen--; if(dontKnowSpecialty) dontKnowSpecialty = false;"
+                        >Изменить выбор</button>
+                        <p class="h2-form">Вы записываетесь:</p>
+                        <div class="pre__result-data"><span>Клиника: </span>{{department}}</div>
+                        <div v-if="!dontKnowSpecialty" class="pre__result-data"><span>Специальность: </span>{{specialty}}</div>
+                        <div v-if="!dontKnowSpecialty" class="pre__result-data"><span>Врач: </span>{{doctor}}</div>
+                        <div v-if="!dontKnowSpecialty" class="pre__result-data">
+                            <span>Дата и&nbsp;время: </span>
+                            <span v-if="dateIsNotFilled === 1" class="red">Выберите время приёма</span>
+                            {{form.date | setTime(form.time) | dateTimeFormatted}}
+                        </div>
+                        <div v-if="!showAgeDirect" class="pre__result-data"><span>Дата рождения: </span>{{age | dateFormatted}}</div>
+          
+                        <div class="pre_extension" :class="{ disabled: dateIsNotFilled === 1 }">
+                            <input
+                                :disabled="dateIsNotFilled === 1"
+                                type="text" name="patientAgeDirect" id="patientAgeDirect"
+                                class="default__input" placeholder="Дата рождения"
+                                @change="form.birthdatedirect = dateFromString($event.target.value)"
+                                :value="form.birthdatedirect | dateFormatted"
+                                v-mask="{
+                                    alias: 'datetime',
+                                    clearIncomplete: true,
+                                    placeholder: 'дд/мм/гггг',
+                                    min: minDate,
+                                    max: maxDate,
+                                    inputFormat: 'dd/mm/yyyy',
+                                    displayFormat: 'дд/мм/гггг',
+                                    outputFormat: 'dd/mm/yyyy',
+                                    oncomplete: function(event){ 
+                                        vm.form.birthdatedirect = dateFromString(event.target.value); 
+	                                    vm.form.birthdate = dateFromString(event.target.value); 
+                                    }
+                                }"
+                                v-if="showAgeDirect"
+                            >
+                            <input
+                                :disabled="dateIsNotFilled === 1"
+                                type="text" name="patientAge" id="patientAge"
+                                class="default__input" placeholder="Дата рождения"
+                                @change="form.birthdate = dateFromString($event.target.value)"
+                                :value="form.birthdate | dateFormatted"
+                                v-mask="{
+                                    alias: 'datetime',
+                                    clearIncomplete: true,
+                                    placeholder: 'дд/мм/гггг',
+                                    min: minDate,
+                                    max: maxDate,
+                                    inputFormat: 'dd/mm/yyyy',
+                                    displayFormat: 'дд/мм/гггг',
+                                    outputFormat: 'dd/mm/yyyy'
+                                }"
+                                v-if="showAge"
+                            >
+                            <br>
+                            <input @input="debouncedOnPersonalChange" :disabled="dateIsNotFilled === 1" v-model="form.name" type="text" name="patientName" id="patientName" class="default__input" placeholder="Имя">
+                            <br>
+                            <input @input="debouncedOnPersonalChange" :disabled="dateIsNotFilled === 1" v-model="form.surname" type="text" name="patientLastName" id="patientLastName" class="default__input" placeholder="Фамилия">
+                            <br>
+                            <input
+                                :disabled="dateIsNotFilled === 1"
+                                type="text" name="patientPhone" id="patientPhone"
+                                class="default__input" placeholder="+7 (___)___-__-__"
+                                :value="form.phone"
+                                v-mask="{
+                                    mask: '+7 (999)999-99-99', 
+                                    placeholder: '+7 (___)___-__-__', 
+                                    oncomplete: function(event){ 
+                                        form.phone = event.target.inputmask.unmaskedvalue(); debouncedOnPersonalChange()
+                                    }
+                                }"
+                            >
+                            <br>
+                            <phone-verificator
+                                :phone="form.phone"
+                                :disabled="phoneVerificatorDisabled"
+                                v-model="phoneConfirmed"
+                            ></phone-verificator>
+                        </div>
+                        <div class="next__step step__two">
+                            <div id="confirmWarning2"></div>
+                            <input
+                                @click="submit"
+                                :class="['btn', 'btn--red', 'btn--big', {'btn--disabled': sending}]"
+                                type="button"
+                                name="sendEnroll"
+                                id="sendEnroll"
+                                :disabled="sending || dontKnowSpecialty ? !isSecondStepReady : !isFullyFilled"
+                                :value="sending ? 'Отправка...' : 'Записаться'"
+                                onclick="
+                                    dataLayer.push({'event': 'event-to-ga', 'eventCategory' : 'button', 'eventAction' : 'click', 'eventLabel' : 'sendEnroll'});
+                                    sendGoal('online_schedule_try');
+                                ">
+                            <transition name="fade">
+                                <p v-if="showAppointmentReply">{{appointmentReply}}</p>
+                            </transition>
+                            <p class="agreement">
+                                Нажимая &laquo;Записаться&raquo;, я&nbsp;принимаю условия пользовательского соглашения, положения о&nbsp;защите персональных данных и&nbsp;даю <a target="_blank" href="/politika/">свое согласие на&nbsp;обработку персональных данных</a>.
+                            </p>
+                        </div>
+                    </section>
+
+                    <section v-show="currentScreen === 2" class="enroll__complete" >
+
+                        <div class="e-complete__header">
+                            <img src="/templates/smclinic/onlineSchedule/assets/images/ok.svg">
+                            <p>Запись совершена</p>
+
+                            <!-- <script>ga('send', 'event', 'Новый посетитель', location.pathname);</script> -->
+                        </div>
+                        
+                        <div class="e-complete__text">
+                            <div v-if="isPrimary">
+                                <p>Для того, чтобы пройти обязательную регистрацию необходимо подойти на&nbsp;регистратуру за&nbsp;10&nbsp;мин до&nbsp;времени вашего приема с&nbsp;паспортом.<br>Если пациент несовершеннолетний (дети до&nbsp;18&nbsp;лет)&nbsp;&mdash; обязательно сопровождение одним из&nbsp;родителей с&nbsp;предъявлением его паспорта и&nbsp;свидетельства о&nbsp;рождении ребенка. </p>
+                                <p>Родственники и&nbsp;третьи лица при сопровождении несовершеннолетнего должны иметь нотариально заверенное согласие родителей или законных представителей.</p>
+                                <p>Если вы&nbsp;записались к&nbsp;колопроктологу, ознакомьтесь с&nbsp;<a href="https://www.smclinic-spb.ru/sm-info/2701-chto-nuzhno-sdelat-pered-poseshcheniem-proktologa-i-chego-ozhidat-ot-vracha">информацией о&nbsp;подготовке к&nbsp;приему</a></p>
+                                
+                                <p>В&nbsp;стоимость консультации входит:<br> Сбор анамнеза, постановка предварительного диагноза и&nbsp;назначение обследования. Все дополнительные манипуляции врача на&nbsp;приеме оплачиваются согласно прейскуранту.</p>
+                                                                
+                                <p>Если вы&nbsp;передумали, отпишитесь, пожалуйста, от&nbsp;приема по&nbsp;телефону <span class="a_call_phone_5555"><a href="tel:+78124355555">+7 (812) 435-55-55</a></span></p>
+                            </div>
+                            <div v-if="!isPrimary">
+
+                                <p>В&nbsp;стоимость консультации входит:<br> Сбор анамнеза, постановка предварительного диагноза и&nbsp;назначение обследования. Все дополнительные манипуляции врача на&nbsp;приеме оплачиваются согласно прейскуранту.</p>
+                                
+                                <p>Если вы&nbsp;передумали, отпишитесь, пожалуйста, от&nbsp;приема с&nbsp;помощью Личного кабинета или по&nbsp;телефону <span class="a_call_phone_5555"><a href="tel:+78124355555">+7 (812) 435-55-55</a></span>.</p>
+                            </div>
+
+                            <div class="e-complete__info">
+                                <p class="h2-form">Данные записи:</p>
+                                <div class="pre__result-data"><span>Клиника: </span>{{savedData.department}}</div>
+                                <div v-if="!dontKnowSpecialty" class="pre__result-data"><span>Специальность: </span>{{savedData.speciality}}</div>
+                                <div v-if="!dontKnowSpecialty" class="pre__result-data"><span>Врач: </span>{{savedData.doctor}}</div>
+                                <div v-if="!dontKnowSpecialty" class="pre__result-data"><span>Дата и&nbsp;время: </span>{{savedData.dateTime}}</div>
+                            </div>
+
+                        </div>
+                    </section>
+                    
+                    <section v-show="currentScreen === 3 && currentScreenNew !== 10" class="enroll__abort">
+                        <div class="e-abort__text">
+                            <p>Вы&nbsp;действительно хотите прервать запись?</p>
+                            <p>Если у&nbsp;вас возникли вопросы, позвоните нам по&nbsp;телефону <span class="a_call_phone_5555"><a href="tel:+78124355555">+7 (812) 435-55-55</a></span></p>
+                        </div>
+                        <div class="e-abort__buttons">
+                            <button @click="$emit('form-abort', true)" id="" class="btn-abort">Прервать</button>
+                            <button @click="currentScreen = 0" id="" class="btn-continue">Продолжить</button>
+                        </div>
+                    </section>
+
+                    <section v-show="currentScreen === 3 && currentScreenNew === 10" class="enroll__abort enroll__abort__new">
+                        <div class="e-abort__text">
+                            <p>Вы&nbsp;действительно хотите изменить текущую запись?</p>
+                            <p>Если у&nbsp;вас возникли вопросы, позвоните нам по&nbsp;телефону <span class="a_call_phone_5555"><a href="tel:+78124355555">+7 (812) 435-55-55</a></span></p>
+                        </div>
+                        <div class="e-abort__buttons">
+                            <button @click="$emit('form-abort', true)" id="" class="btn-abort">Изменить выбор</button>
+                        </div>
+                    </section>
+                        
+                    <section v-show="currentScreen === 4" class="enroll__complete">
+                        <div class="e-complete__header">
+                            <img style="width:82px;" src="/templates/smclinic/onlineSchedule/assets/images/phone.png">
+                            <p>Запись онлайн для вас ограничена</p>
+                        </div>
+                        <div class="e-complete__text">
+                            <div>
+                                <p>В&nbsp;отношении вас действуют некоторые ограничения по&nbsp;записи онлайн.</p>
+                                <p>Запись возможна через контактный центр.<br>Записаться можно по&nbsp;телефону&nbsp;<span class="a_call_phone_5555"><a href="tel:+78124355555">+7 (812) 435-55-55</a></span></p>
+                            </div>
+                        </div>
+                    </section>
+
+
+                    <section v-show="currentScreen === 9" class="enroll__complete enroll__complete__age__bug">
+                        <div class="e-complete__header">
+                            <img style="width:82px;" src="/templates/smclinic/onlineSchedule/assets/images/phone.png">
+                            <p>Запись онлайн для вас ограничена</p>
+                        </div>
+                        <div class="e-complete__text">
+                            <div>
+                                <p>Специалист не ведет прием пациентов указанного возраста. Для записи заполните форму ниже, и с Вами свяжутся.</p>
+                            </div>
+                        </div>
+                        <div v-if="showAgeFormLabel === 1" class="form__age">
+                            <div id="callmeFormDoctorEnroll" class="jajaxforms clearfix zapisForm active" style="display:block">
+                                <div class="form__title">Записаться на прием</div>
+                                <form action="#" method="POST">
+                                    <img class="quality__mark left" loading="lazy" alt="знак качества" src="/images/quality_mark.png">
+                                    <div class="h2" style="margin-left:40px;">Хотите мы<br>вам перезвоним?</div>
+                                    <div class="form-wrapper">
+                                        <div class="form-row x2input">
+                                            <input type="hidden" name="act" value="callme">
+                                            <input type="hidden" name="vnd">
+                                            <label>
+                                                <span class="label__span">Имя</span>
+                                                <input class="clear-it" type="text" name="name" placeholder="Имя">
+                                            </label>
+                                            <label>
+                                                <span class="label__span">Телефон</span>
+                                                <input 
+                                                    class="clear-it mask-phone" 
+                                                    type="tel" 
+                                                    name="phone" 
+                                                    placeholder="Введите телефон *" 
+                                                    v-mask="{mask: '+7 (999)999-99-99', placeholder: '+7 (___)___-__-__'}"
+                                                />
+                                            </label>
+                                            
+                                            
+                                        </div>
+                                        <div class="form-row">
+                                            <div class="text">
+                                                Нажимая на&nbsp;кнопку, вы&nbsp;даете согласие<br>на&nbsp;<a target="_blank" href="/politika/">обработку своих персональных данных</a>
+                                            </div>
+                                        </div>
+                                        <div class="form-row">
+                                            <input type="submit" value="Записаться на прием">
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </section>
+        
+                    <section v-show="currentScreen === 5" class="enroll__complete">
+                        <div class="e-complete__header">
+                            <img style="width:82px;" src="/templates/smclinic/onlineSchedule/assets/images/ok.svg">
+                            <p>Данные отправлены</p>
+                        </div>
+                        <div class="e-complete__text">
+                            <div>
+                                <p>С&nbsp;вами свяжутся для подтверждения заявки.</p>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </template>
+        </transition>
+    </div>
+
+    <script>
+        jQuery(document).ready(function() {
+
+            // Подключится либо через 4 секунды, либо на первый скролл
+            function loadOnlineSchedule() {
+                console.log('loadOnlineSchedule');
+                window.removeEventListener('scroll', loadOnlineSchedule);
+                clearTimeout(waitForOnlineSchedule);
+
+                addScriptToHead('/templates/smclinic/onlineSchedule/assets/babel-polyfill.min.js');
+                addScriptToHead('/templates/smclinic/onlineSchedule/assets/vue.min.js');
+                addScriptToHead('/templates/smclinic/onlineSchedule/assets/axios.min.js');
+                addScriptToHead('/templates/smclinic/onlineSchedule/node_modules/inputmask/dist/min/inputmask/inputmask.min.js');
+                addScriptToHead('/templates/smclinic/onlineSchedule/node_modules/inputmask/dist/min/inputmask/dependencyLibs/inputmask.dependencyLib.min.js');
+                addScriptToHead('/templates/smclinic/onlineSchedule/node_modules/inputmask/dist/min/inputmask/inputmask.extensions.min.js');
+                addScriptToHead('/templates/smclinic/onlineSchedule/node_modules/inputmask/dist/min/inputmask/inputmask.date.extensions.min.js');
+                addScriptToHead('/templates/smclinic/onlineSchedule/node_modules/vue-inputmask/dist/vue-inputmask-browser.js');
+                addScriptToHead('/templates/smclinic/onlineSchedule/assets/promise-polyfill.min.js');
+                addScriptToHead('/templates/smclinic/onlineSchedule/assets/vuejs-datepicker.min.js');
+
+                loadScript('/new_site/js/jquery-ui.min.js', function() {
+                    console.log('loadJQueryUI callback');
+
+                    loadScript('/templates/smclinic/onlineSchedule/assets/functions.js?v=1', function() {
+                        console.log('loadJQueryUI callback2');
+                        jQuery('[onclick="$(\'.shedule__call.tip_btn\').click();"]')
+                            .css('visibility', 'visible')
+                            .animate({opacity: 1.0}, 800);
+                    });
+                });
+            }
+            var waitForOnlineSchedule = setTimeout(loadOnlineSchedule, 4000);
+            window.addEventListener('scroll', loadOnlineSchedule);
+        });
+    </script>
+    
+        
+        <!--Форма записи к врачу-->
+        <div id="doctor-modal" class="modal feedback-modal fade" role="dialog">
+            <div class="modal-dialog doctor__wrapper modal-dialog-centered">
+                
+                <div class="modal-content success__message d-none">
+                    <button type="button" class="close" data-dismiss="modal"></button>
+                    <div class="col-md-12">
+                        <div class="row">
+                            <div class="col-md-6 d-flex">
+                                <div class="modal-body d-flex align-items-start justify-content-center flex-column pr-5 pl-5" style="padding-bottom: 0px;">
+                                    <p class="modal-title">Спасибо!</p>
+                                    <p class="modal-text">Ваша заявка успешно отправлена!</p>
+                                    <p>Администратор свяжется с&nbsp;Вами для подтверждения записи</p>
+                                </div>
+                            </div>
+                            <picture class="col-md-6 appointment__bg"> 
+                                                                <img data-src="/new_site/img/Form_img-2_2.png" alt="">
+                            </picture>
+                        </div>
+                    </div>
+                </div>
+
+                <form class="modal-content doctor__form" id="doctor-modal-form">
+                    <input name="action" type="hidden" value="doctor">
+                    <input name="doctor" type="hidden" value="">
+
+                    <div class="modal-header mb-0">
+                        <button type="button" class="close" data-dismiss="modal"></button>
+                        <div class="question__title mb-2">Записаться на&nbsp;приём к&nbsp;<span class="doctor__value">врачу</span>
+                        </div>
+                    </div>
+                    
+                    <div class="modal-body" style="padding-bottom: 0px;">
+                        <!-- <p class="mb-5">Наш специалист подберет удобное время для сеанса связи с&nbsp;врачом</p> -->
+                        <div class="row">
+                            <div class="col-md-2">
+                                <div class="doctor__photo">
+                                    <img class="doctor__photo__img" src="/new_site/img/man_no_bg.svg" alt="Специалист">
+                                </div>
+                            </div>
+                            <div class="col-md-10">
+                                <div class="question__fields">
+                                    <div class="row justify-content-between align-items-center">
+                                        <div class="col-lg-6 col-md-12 form__item name">
+                                            <input name="name" required="required" type="text" class="question__input form__input" placeholder="Как вас зовут?">
+                                        </div>
+                                        <div class="col-lg-6 col-md-12 form__item phone">
+                                            <input name="phone" required="required" type="tel" class="question__input form__input" placeholder="Номер телефона" data-inputmask="'mask': '+7 (999)-999 99 99'">
+                                        </div>
+                                    </div>
+                                    <div class="appointment_form__bottom mt-2">
+                                        <input type="submit" value="Записаться" class="appointment_form__submit btn btn__gradient">
+                                        <div class="agree">Нажимая на&nbsp;кнопку, я&nbsp;даю согласие на&nbsp;обработку своих персональных данных в&nbsp;соответствии с&nbsp;<a class="privacy-policy-link" href="/privacy-policy/" target="_blank">пользовательским соглашением</a>.</div>
+                                    </div>
+                                    <div class="appointment_form__footer">
+                                        «СМ-Клиника» гарантирует полную конфиденциальность Вашего обращения.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div><!--modal-body-->
+                </form><!--modal-content doctor__form-->
+            </div><!--modal-dialog doctor__wrapper-->
+        </div><!--doctor-modal-->
+
+        <div id="search-modal" class="modal feedback-modal fade" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="container">
+                        <button type="button" class="close" data-dismiss="modal"></button>
+                        <div class="search__block">
+                            <div class="search__wrapper">
+                                <form class="form__search" action="/component/finder/search/" method="get">
+                                    <div class="form-full_width">
+                                        <input name="q" class="input-full_width input__search" type="text" placeholder="Напишите что вас интересует и нажмите «Найти»" autocomplete="off" required>
+                                        <button type="submit" class="submit-full_width submit__search btn btn__green">Найти</button>
+                                    </div>
+                                </form><!--form__operations-->
+                            </div><!--search__wrapper-->
+                        </div><!--search__block-->
+                        <div class="search__popular">
+                            <div class="search__popular__title">Популярные запросы</div>
+                            <div class="search__popular__list row">
+                                <a href="/ekstrennaya-khirurgiya/" class="search__popular__item"><img src="/new_site/img/directions/ekstrennaya.svg" alt="Экстренная хирургия">Экстренная хирургия</a>
+                                <a href="/onlajn-mnenie-khirurga/" class="search__popular__item"><img src="/new_site/img/opinion.svg" alt="Экспертное онлайн мнение">Экспертное онлайн мнение</a>
+                                <a href="/konsultatsiya-khirurga/" class="search__popular__item"><img src="/new_site/img/consultation.svg" alt="Консультация хирурга">Консультация хирурга</a>
+                                <a href="/ambulatornaya-khirurgiya/" class="search__popular__item"><img src="/new_site/img/ambulance.svg" alt="Амбулаторная хирургия" >Амбулаторная хирургия</a>
+                                <a href="/statsionarnaya-khirurgiya/" class="search__popular__item"><img src="/new_site/img/stacionair_hirurg.svg" alt="Стационарная хирургия">Стационарная хирургия</a>
+                                <a href="/maloinvazivnaya-khirurgiya/" class="search__popular__item"><img src="/new_site/img/malotravm.svg" alt="Малотравматичная хирургия">Малотравматичная хирургия</a>
+                                <a href="/about/operatsionnyj-blok/" class="search__popular__item"><img src="/new_site/img/operac_blok.svg" alt="Операционный блок">Операционный блок</a>
+                                <a href="/about/statsionar/" class="search__popular__item"><img src="/new_site/img/stacionar.svg" alt="Стационар">Стационар</a>
+                            </div>
+                        </div>
+                    </div><!--container-->
+                </div><!--modal-content-->
+            </div>
+        </div><!--search-modal-->
+
+
+        <div id="question-modal" class="modal feedback-modal fade question" role="dialog">
+            <div class="modal-dialog modal-dialog-centered question__wrapper">
+
+                <div class="modal-content success__message d-none">
+                    <button type="button" class="close" data-dismiss="modal"></button>
+                    <div class="col-md-12">
+                        <div class="row">
+                            <div class="col-md-6 d-flex">
+                                <div class="modal-body d-flex align-items-start justify-content-center flex-column pr-5 pl-5" style="padding-bottom: 0px;">
+                                    <p class="modal-title">Спасибо!</p>
+                                    <p class="modal-text">Ваш вопрос отправлен!</p>
+                                    <p>Ответ придет Вам по электронной почте.</p>
+                                </div>
+                            </div>
+                            <picture class="col-md-6 appointment__bg"> 
+                                                                <img data-src="/new_site/img/Form_img-2_2.png" alt="Спасибо">
+                            </picture>
+                        </div>
+                    </div>
+                </div>
+
+                                <form class="modal-content question__form easy-book-form faq-form" id="question-modal-form"     action="/index.php?option=com_easybookreloaded&controller=entry&gbid=2&task=save">
+                    <input type="hidden" name="590854064dbebd71229d7be5e00d9bb0" value="1" />                    <input name="format" type="hidden" value="json">
+                    <input name="action" type="hidden" value="question">
+                    <input name="gbpage" type="hidden" value="https://centr-hirurgii-spb.ru/diseases/appendicit/">
+                    <input name="gbip" type="hidden" value="185.94.108.21">
+                    
+                    <div class="modal-header mb-0">
+                        <button type="button" class="close" data-dismiss="modal"></button>
+                        <div class="question__title">Задать вопрос врачу</div>
+                    </div>
+                    
+                    <div class="modal-body" style="padding-bottom: 0px;">
+                        <div class="question__fields">
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-md-6 form__item name">
+                                    <input name="gbname" required="required" type="text" class="question__input form__input" placeholder="Как вас зовут?">
+                                </div>
+                                <div class="col-md-6 form__item email">
+                                    <input name="gbmail" required="required" type="email" class="question__input form__input" placeholder="E-mail">
+                                </div>
+                            </div>
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-md-12">
+                                    <label>
+                                        Вопрос *
+                                        <textarea required="required" class="form__textarea" name="gbtext"></textarea>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="appointment_form__bottom">
+                                <input type="submit" value="Отправить" class="appointment_form__submit btn btn__gradient      record-form-button">
+                                <div class="agree">Нажимая на&nbsp;кнопку, я&nbsp;даю согласие на&nbsp;обработку своих персональных данных в&nbsp;соответствии с&nbsp;<a class="privacy-policy-link" href="/privacy-policy/" target="_blank">пользовательским соглашением</a>.</div>
+                            </div>
+                            <div class="appointment_form__footer">
+                                «СМ‑Клиника» гарантирует полную конфиденциальность Вашего обращения.
+                            </div>
+                        </div>
+
+                    </div><!--modal-body-->
+                </form><!--modal-content question__form-->
+            </div>
+        </div><!--question-modal-->
+
+
+        <div id="callback-modal" class="modal feedback-modal fade callback" role="dialog">
+            <div class="modal-dialog modal-dialog-centered question__wrapper">
+                
+                <div class="modal-content success__message d-none">
+                    <button type="button" class="close" data-dismiss="modal"></button>
+                    <div class="col-md-12">
+                        <div class="row">
+                            <div class="col-md-6 d-flex">
+                                <div class="modal-body d-flex align-items-start justify-content-center flex-column pr-5 pl-5" style="padding-bottom: 0px;">
+                                    <p class="modal-title">Спасибо!</p>
+                                    <p class="modal-text">Ваша заявка успешно отправлена!</p>
+                                    <p>Администратор свяжется с&nbsp;Вами для подтверждения записи</p>
+                                </div>
+                            </div>
+                            <picture class="col-md-6 appointment__bg"> 
+                                <img data-src="/new_site/img/Form_img-2_2.png" alt="Спасибо">
+                            </picture>
+                        </div>
+                    </div>
+                </div>
+
+                <form class="modal-content callback__form" id="callback-modal-form">
+                    <input name="action" type="hidden" value="callback">                
+                    <div class="modal-header mb-0">
+                        <button type="button" class="close" data-dismiss="modal"></button>
+                        <div class="question__title">Заказать звонок</div>
+                    </div>
+                    
+                    <div class="modal-body" style="padding-bottom: 0px;">
+                        <div class="question__fields">
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-md-6 form__item name">
+                                    <input name="name" required="required" type="text" class="question__input form__input" placeholder="Как вас зовут?">
+                                </div>
+                                <div class="col-md-6 form__item phone">
+                                    <input name="phone" required="required" type="tel" data-inputmask="'mask': '+7 (999)-999 99 99'" class="question__input form__input" placeholder="Номер телефона">
+                                </div>
+                            </div>
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-md-12">
+                                    <label>
+                                        Комментарий
+                                        <textarea class="form__textarea" name="message"></textarea>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="appointment_form__bottom">
+                                <input type="submit" value="Отправить" class="appointment_form__submit btn btn__gradient">
+                                <div class="agree">Нажимая на&nbsp;кнопку, я&nbsp;даю согласие на&nbsp;обработку своих персональных данных в&nbsp;соответствии с&nbsp;<a class="privacy-policy-link" href="/privacy-policy/" target="_blank">пользовательским соглашением</a>.</div>
+                            </div>
+                            <div class="appointment_form__footer">
+                                «СМ‑Клиника» гарантирует полную конфиденциальность Вашего обращения.
+                            </div>
+                            <p class="mt-4">Подробнее о&nbsp;<a href="/garantiya-kachestva-konsultativnykh-meditsinskikh-uslug/" target="_blank">гарантии качества</a> медицинских услуг </p>
+                        </div>
+
+                    </div><!--modal-body-->
+                </form><!--modal-content callback__form-->
+            </div>
+        </div><!--callback-modal-->        
+
+
+        <div id="appointment-modal" class="modal feedback-modal fade" role="dialog">
+            <div class="modal-dialog modal-dialog-centered appointment__wrapper">
+
+                <div class="modal-content success__message d-none">
+                    <button type="button" class="close" data-dismiss="modal"></button>
+                    <div class="col-md-12">
+                        <div class="row">
+                            <div class="col-md-6 d-flex">
+                                <div class="modal-body d-flex align-items-start justify-content-center flex-column pr-5 pl-5" style="padding-bottom: 0px;">
+                                    <p class="modal-title">Спасибо!</p>
+                                    <p class="modal-text">Ваша заявка успешно отправлена!</p>
+                                    <p>Администратор свяжется с&nbsp;Вами для подтверждения записи</p>
+                                </div>
+                            </div>
+                            <picture class="col-md-6 appointment__bg"> 
+                                <img data-src="/new_site/img/Form_img-2_2.png" alt="Спасибо">
+                            </picture>
+                        </div>
+                    </div>
+                </div>
+
+                <form class="modal-content appointment__form" id="appointment-modal-form">
+
+                    <input name="action" type="hidden" value="appointment">
+                    <div class="modal-header mb-0">
+                        <button type="button" class="close" data-dismiss="modal"></button>
+                        <div class="question__title">Записаться на&nbsp;приём</div>
+                    </div>
+                    
+                    <div class="modal-body" style="padding-bottom: 0px;">
+                        <div class="question__fields">
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-md-12 form__item name">
+                                    <input name="name" required="required" type="text" class="question__input form__input" placeholder="Как вас зовут?">
+                                </div>
+                                <div class="col-md-12 form__item phone">
+                                    <input name="phone" required="required" type="tel" data-inputmask="'mask': '+7 (999)-999 99 99'" class="question__input form__input" placeholder="Номер телефона">
+                                </div>
+                            </div>
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-md-12 doctor">
+                                    <label for="doctor__select">
+                                        <select id="doctor__select" name="doctor" class="js-select-doctor-specialist question__select form__select">
+                                            <option value="Я не знаю какой специалист мне нужен">Я&nbsp;не&nbsp;знаю какой специалист мне нужен</option>
+                                                                                        <option value="Анестезиолог">Анестезиолог</option>
+                                            <option value="Гинеколог">Гинеколог</option>
+                                            <option value="Дерматолог">Дерматолог</option>
+                                            <option value="Нейрохирург">Нейрохирург</option>
+                                            <option value="Офтальмолог">Офтальмолог</option>
+                                            <option value="Онколог">Онколог</option>
+                                            <option value="Отоларинголог">Отоларинголог</option>
+                                            <option value="Ортопед">Ортопед</option>
+                                            <option value="Пластический хирург">Пластический хирург</option>
+                                            <option value="Проктолог">Проктолог</option>
+                                            <option value="Травматолог">Травматолог</option>
+                                            <option value="Уролог">Уролог</option>
+                                            <option value="Флеболог">Флеболог</option>
+                                            <option value="Эндокринолог">Эндокринолог</option>
+                                        </select>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="appointment_form__bottom">
+                                <input type="submit" value="Записаться" class="appointment_form__submit btn btn__gradient">
+                                <div class="agree">Нажимая на&nbsp;кнопку, я&nbsp;даю согласие на обработку своих персональных данных в&nbsp;соответствии с&nbsp;<a class="privacy-policy-link" href="/privacy-policy/" target="_blank">пользовательским соглашением</a>.</div>
+                            </div>
+                            <div class="appointment_form__footer">
+                                «СМ‑Клиника» гарантирует полную конфиденциальность Вашего обращения.
+                            </div>
+                            <p class="mt-4">Подробнее о&nbsp;<a href="/garantiya-kachestva-konsultativnykh-meditsinskikh-uslug/" target="_blank">гарантии качества</a> медицинских услуг</p>
+                        </div>
+                        
+
+                    </div><!--modal-body-->
+                    
+                    <img class="appointment__bg" data-src="/new_site/img/appointment_woman.png" alt="Записаться на прием">
+                </form><!--modal-content appointment__form-->
+                
+            </div><!--modal-dialog appointment__wrapper-->
+        </div><!--appointment-modal-->
+
+
+        <div id="video-modal" class="modal feedback-modal fade" role="dialog">
+            <div class="modal-dialog modal-dialog-centered" style="max-width: 720px;">
+                <div class="modal-content" id="video-modal-form">
+                    <div class="modal-header mb-0">
+                        <button type="button" class="close" data-dismiss="modal"></button>
+                        <div class="title">О клинике</div>
+                    </div>
+                    <div class="embed-responsive">
+                        <div class="youtube_popup" id="PFJ_oyle170" style="width:100%;height:337px;">
+                            <div id="youtube_popup__content" style="width:100%;height:337px;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!--video-modal-->
+
+        <div id="video-review-modal" class="modal feedback-modal fade" role="dialog">
+            <div class="modal-dialog modal-dialog-centered" style="max-width: 720px;">
+                <div class="modal-content" id="video-review-modal-form">
+                    <div class="modal-header mb-0">
+                        <button type="button" class="close" data-dismiss="modal"></button>
+                    </div>
+                    <div class="youtube_popup__doctor" style="width:100%;height:337px;">
+                    </div>
+                </div>
+            </div>
+        </div><!--video-review-modal-->        
+
+        <div id="review-text-modal" class="modal feedback-modal fade" role="dialog">
+            <div class="modal-dialog modal-dialog-centered">
+
+                <div class="modal-content" id="review-text-modal-form">
+                    <button type="button" class="close" data-dismiss="modal"></button>
+                    <div class="modal-text"></div>
+                </div>
+            </div>
+        </div><!--review-text-modal-->
+
+        <div id="map-modal" class="modal feedback-modal fade" role="dialog">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content" id="map-modal-form">
+                    <button type="button" class="close" data-dismiss="modal"></button>
+                    <div class="modal-map__title"></div>
+                    <div class="modal-map__map"></div>
+                </div>
+            </div>
+        </div><!--map-modal-->
+
+        
+
+    </body>
+</html>
