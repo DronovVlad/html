@@ -1,0 +1,83 @@
+#hory{
+    background-color: #49AEE4;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #ffffff;
+    
+
+}
+
+#hory div{
+    width: 49%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 36pt;
+    font-family: "Noto Sans", sans-serif;
+}
+
+#hory div img{
+    width: 49%;
+}
+
+#hory div button{
+    border: none;
+    border-radius: 10px;
+    font-size: 24pt;
+    margin-bottom: 10px;
+    color: #49AEE4;
+}
+
+.text{
+    color: #49AEE4;
+}
+
+.text div{
+    display: inline-block;
+    width: 49%;
+    vertical-align: middle;
+}
+
+.text p{
+    font-size: 16pt;
+}
+
+.white{
+    background-color: #49AEE4;
+    color: #ffffff;
+
+}
+
+.white div{
+    display: inline-block;
+    width: 49%;
+    vertical-align: middle;
+}
+
+.white p, li{
+    font-size: 16pt;
+}
+
+.img{
+    width: 100%;
+}
+.t{
+    width: 49%;
+
+}
+td img{
+    height: 200px;
+}
+
+table{
+    width: 100%;
+    background-color: #49AEE4;
+    color: #ffffff;
+    
+}
+
+td, th{
+    border: solid rgb(235, 236, 178) 3px;
+}
+
+
